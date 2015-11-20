@@ -24,8 +24,8 @@ The following components are required to run Hygieia:
          MongoDB shell version: 3.0.4
          connecting to: test  
 
-         > use dashboardb
-         switched to db dashboardb
+         > use dashboarddb
+         switched to db dashboarddb
          > db.createUser(
               ... {
                 ... user: "dashboarduser",
